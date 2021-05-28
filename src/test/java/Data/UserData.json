@@ -1,0 +1,11 @@
+[
+	{
+		"firstname": "Moataz",
+		"lastname": "Mohamed12",
+		"email": "moataz3010@test.com",
+		"password": "12345678",
+		"invalidPass": "12345",
+		"invalidEmail": "test@test",
+		"phone" : "12345"
+	}
+]
